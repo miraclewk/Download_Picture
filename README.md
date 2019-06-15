@@ -1,2 +1,2 @@
 # Python
-some python spider code
+python爬虫爬取图片
